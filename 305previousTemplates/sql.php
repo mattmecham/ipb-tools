@@ -73,6 +73,7 @@ function fetchData()
 {
 	$file = './data.txt';
 	
+	/* Test for file exists */
 	if ( ! file_exists( $file ) )
 	{
 		print "Could not load $file";
