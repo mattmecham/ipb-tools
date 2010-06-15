@@ -81,7 +81,7 @@ function fetchData()
 	}
 	else
 	{
-		$data = file_get_contents( $file );
+		$data = @file_get_contents( $file );
 	}
 
 	return $data;
