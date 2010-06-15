@@ -81,7 +81,7 @@ function fetchData()
 	}
 	else
 	{
-		/* Test commit again */
+		/* Test commit again - again! */
 		$data = @file_get_contents( $file );
 	}
 
