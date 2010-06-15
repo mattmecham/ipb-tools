@@ -1,0 +1,11 @@
+Create 3.0.5 Previous Templates
+--------------------------
+
+Use:
+Use this tool to insert a set of 3.0.5 templates for your new IP.Board 3.1.x installation so you can use the merge center.
+
+Installation:
+Simply upload the "305previousTenplates" folder and files into your root forums directory.
+
+Usage:
+Call via your browser (http://site.tld/forums/305previousTemplates/sql.php)
